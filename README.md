@@ -4,3 +4,5 @@
 4. output_ply.py用于将压缩后的模型和存储高斯中心点的ply文件重新解压为原始ply文件
 5. importance.py用于计算重要性
 6. models.py模型结构和训练代码
+7. 数据集下载I,TRAIN:链接: https://pan.baidu.com/s/1sI2uGnK2wGZh8zFV8u_2vw 提取码: qpw4 
+8. 数据集下载II,KITCHEN:
