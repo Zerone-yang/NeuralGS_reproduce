@@ -5,4 +5,4 @@
 5. importance.py用于计算重要性
 6. models.py模型结构和训练代码
 7. 数据集下载I,TRAIN:链接: https://pan.baidu.com/s/1sI2uGnK2wGZh8zFV8u_2vw 提取码: qpw4 
-8. 数据集下载II,KITCHEN:https://www.kaggle.com/code/ducanhlevan/fork-of-fsgs1/output
+8. 数据集下载II,KITCHEN:链接: https://pan.baidu.com/s/1UOXfKjnNcDRfx-M7VoPiPw 提取码: av3q 
